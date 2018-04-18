@@ -15,6 +15,11 @@ set et
 " C style indentation
 set cindent
 
+" Set colour scheme
+syntax enable
+set background=dark
+colorscheme solarized
+
 " Put these lines at the very end of your vimrc file.
 
 " Load all plugins now.
