@@ -13,3 +13,9 @@
 [submodule "pack/git-plugins/start/vim-colors-solarized"]
 	path = pack/git-plugins/start/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "pack/git-plugins/start/vimagit"]
+	path = pack/git-plugins/start/vimagit
+	url = https://github.com/jreybert/vimagit
+[submodule "pack/git-plugins/start/vim-gitgutter"]
+	path = pack/git-plugins/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
