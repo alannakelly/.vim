@@ -22,3 +22,9 @@
 [submodule "pack/git-plugins/start/vim-codefmt"]
 	path = pack/git-plugins/start/vim-codefmt
 	url = https://github.com/google/vim-codefmt
+[submodule "pack/git-plugins/start/vim-maktaba"]
+	path = pack/git-plugins/start/vim-maktaba
+	url = https://github.com/google/vim-maktaba
+[submodule "pack/git-plugins/start/vim-glaive"]
+	path = pack/git-plugins/start/vim-glaive
+	url = https://github.com/google/vim-glaive
