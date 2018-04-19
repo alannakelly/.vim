@@ -20,6 +20,15 @@ syntax enable
 set background=dark
 colorscheme solarized
 
+" Options for vim-airline
+let g:airline_powerline_fonts = 1
+if !exists('g:airline_symbols')
+      let g:airline_symbols = {}
+endif
+let g:airline_symbols.space = "\ua0"
+  let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#show_buffers = 0
+
 " Put these lines at the very end of your vimrc file.
 
 " Load all plugins now.

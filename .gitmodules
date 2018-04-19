@@ -19,3 +19,6 @@
 [submodule "pack/git-plugins/start/vim-gitgutter"]
 	path = pack/git-plugins/start/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/git-plugins/start/vim-codefmt"]
+	path = pack/git-plugins/start/vim-codefmt
+	url = https://github.com/google/vim-codefmt
