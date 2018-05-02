@@ -29,6 +29,9 @@ let g:airline_symbols.space = "\ua0"
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#show_buffers = 0
 
+" Options for ale
+let g:ale_warn_about_trailing_whitespace = 1
+
 " Options for vim-codefmt
 augroup autoformat_settings
   autocmd FileType bzl AutoFormatBuffer buildifier

@@ -28,3 +28,9 @@
 [submodule "pack/git-plugins/start/vim-glaive"]
 	path = pack/git-plugins/start/vim-glaive
 	url = https://github.com/google/vim-glaive
+[submodule "pack/git-plugins/start/yats.vim"]
+	path = pack/git-plugins/start/yats.vim
+	url = https://github.com/HerringtonDarkholme/yats.vim
+[submodule "pack/git-plugins/start/yajs.vim"]
+	path = pack/git-plugins/start/yajs.vim
+	url = https://github.com/othree/yajs.vim
