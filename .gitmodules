@@ -34,3 +34,6 @@
 [submodule "pack/git-plugins/start/yajs.vim"]
 	path = pack/git-plugins/start/yajs.vim
 	url = https://github.com/othree/yajs.vim
+[submodule "pack/git-plugins/start/nerdtree"]
+	path = pack/git-plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree

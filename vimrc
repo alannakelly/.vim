@@ -45,6 +45,9 @@ augroup autoformat_settings
   " Alternative: autocmd FileType python AutoFormatBuffer autopep8
 augroup END
 
+" Options for nerdtree
+map <C-n> :NERDTreeToggle<CR>
+
 " Put these lines at the very end of your vimrc file.
 
 " Load all plugins now.
