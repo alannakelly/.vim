@@ -1,3 +1,6 @@
+" Had to add this as vim 8.1.53 broke my config
+set nocompatible
+
 " Relavtive Line Numbering for fast keyboard navigation
 
 set number
@@ -53,7 +56,7 @@ map <C-n> :NERDTreeToggle<CR>
 
 " Load all plugins now.
 " Plugins need to be added to runtimepath before helptags can be generated.
-packloadall
+" packloadall
 " Load all of the helptags now, after plugins have been loaded.
 " All messages and errors will be ignored.
 silent! helptags ALL
