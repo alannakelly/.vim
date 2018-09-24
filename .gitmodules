@@ -19,9 +19,6 @@
 [submodule "pack/git-plugins/start/vim-gitgutter"]
 	path = pack/git-plugins/start/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter
-[submodule "pack/git-plugins/start/vim-codefmt"]
-	path = pack/git-plugins/start/vim-codefmt
-	url = https://github.com/google/vim-codefmt
 [submodule "pack/git-plugins/start/vim-maktaba"]
 	path = pack/git-plugins/start/vim-maktaba
 	url = https://github.com/google/vim-maktaba
@@ -40,3 +37,12 @@
 [submodule "pack/git-plugins/start/nerdtree-git-plugin"]
 	path = pack/git-plugins/start/nerdtree-git-plugin
 	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "pack/git-plugins/start/vim-autoformat"]
+	path = pack/git-plugins/start/vim-autoformat
+	url = https://github.com/Chiel92/vim-autoformat
+[submodule "pack/git-plugins/start/rust.vim"]
+	path = pack/git-plugins/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim
+[submodule "pack/git-plugins/start/vim-pico8-syntax"]
+	path = pack/git-plugins/start/vim-pico8-syntax
+	url = https://github.com/justinj/vim-pico8-syntax
