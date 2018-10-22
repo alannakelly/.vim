@@ -46,3 +46,6 @@
 [submodule "pack/git-plugins/start/vim-pico8-syntax"]
 	path = pack/git-plugins/start/vim-pico8-syntax
 	url = https://github.com/justinj/vim-pico8-syntax
+[submodule "pack/git-plugins/start/vim-acme"]
+	path = pack/git-plugins/start/vim-acme
+	url = https://github.com/leissa/vim-acme
