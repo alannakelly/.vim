@@ -49,3 +49,6 @@
 [submodule "pack/git-plugins/start/vim-acme"]
 	path = pack/git-plugins/start/vim-acme
 	url = https://github.com/leissa/vim-acme
+[submodule "pack/git-plugins/start/Jenkinsfile-vim-syntax"]
+	path = pack/git-plugins/start/Jenkinsfile-vim-syntax
+	url = https://github.com/martinda/Jenkinsfile-vim-syntax
